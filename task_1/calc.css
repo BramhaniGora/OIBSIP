@@ -1,0 +1,30 @@
+*{
+    background-color:antiquewhite;
+}
+.calculato{
+    height: 100vh;
+   display: flex;
+    justify-content: center;
+    background-image: url(calculator.jpg);
+
+}
+.cal{
+    margin-top: 50px;
+    height: 80vh;
+    text-align: center;
+    width: 250px;
+    display: grid;
+    grid-template-columns: repeat(4,66px);
+    background-image: url(calculator.jpg);
+
+}
+input{
+    grid-column: span 4;
+    background-color: aqua;
+    text-align: right;
+    border-color: black;
+}
+button{
+   margin: 2px;
+   background-color: aqua;
+}

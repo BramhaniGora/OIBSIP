@@ -1,0 +1,23 @@
+*{
+    background-color:rgb(231, 187, 132);
+}
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+@keyframes fadeInAnimation { 
+    0% { 
+     opacity: 0;
+    } 
+    100% { 
+    opacity:1;
+   }
+}
+table{
+    background-color: aquamarine;
+}
+#more{
+    display: none;
+}
