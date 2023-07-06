@@ -1,5 +1,5 @@
 # OIBSIP
-oasis infobyte
+Oasis Infobyte
 
 I am glad to inform that I have completed my internship in web development and Designing with Oasis Infobyte .
 I have completed Level 2 consisting of three tasks.
